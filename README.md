@@ -4,7 +4,7 @@
 To capture live network traffic and analyze different protocols using Wireshark.
 
 # Tools Used:
-  •	Wireshark vX.X.X (mention your version)
+  •	Wireshark v4.4.7 (mention your version)
   •	Browser (Chrome/Edge)
   •	Windows CMD (ping utility)
 
